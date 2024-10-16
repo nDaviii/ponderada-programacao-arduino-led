@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<sub>Vídeo Demonstrativo do Arduíno Piscando</sub>
+<sub>Vídeo Demonstrativo do Arduíno Piscando (Clica na imagem para ser redirecionado ao vídeo no Drive)</sub>
 
-<video controls src="https://drive.google.com/file/d/1YLILzls1FZ9CK-lvx47PX9klmbzjKMhv/view?usp=sharing" title="Arduíno piscando"></video>
+[![Texto alternativo da imagem](assets/arduino-aceso.jpg)](https://drive.google.com/file/d/1YLILzls1FZ9CK-lvx47PX9klmbzjKMhv/view?usp=sharing)
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 

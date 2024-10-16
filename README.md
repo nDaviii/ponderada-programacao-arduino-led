@@ -37,7 +37,7 @@
 
 <sub>Vídeo Demonstrativo do Arduíno Piscando</sub>
 
-<video controls src="assets/arduino-piscando.mp4" title="Arduíno piscando"></video>
+<video controls src="https://drive.google.com/file/d/1YLILzls1FZ9CK-lvx47PX9klmbzjKMhv/view?usp=sharing" title="Arduíno piscando"></video>
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 

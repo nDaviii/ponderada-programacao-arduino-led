@@ -67,8 +67,13 @@
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 
+</div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;Além disso, para proporcionar um entendimento mais abrangente, foi desenvolvido com o mesmo código do simulador, o sistema físico do Blink Externo. Ele pode ser visualizado aqui:
 
+
+<div align="center">
+  
 <sub>Vídeo 2 - Demonstração do Semáforo Blink</sub>
 
 [🖱️| Clique aqui para acessar o vídeo no Google Drive](https://drive.google.com/file/d/19r1Zl5a8U6-rwNr_7f54qW3ZovTjvvwv/view?usp=drive_link)
